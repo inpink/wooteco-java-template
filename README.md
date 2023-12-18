@@ -1,5 +1,5 @@
-👉 최종 코딩 테스트 회고: https://blog.naver.com/inpink_/223296886756
-
+👉 최종 코딩 테스트 회고: https://blog.naver.com/inpink_/223296886756  
+👉 최종 코딩 테스트 코드 리뷰: https://github.com/inpink/java-oncall-6-inpink/pull/1  
 
 ***
 # 목차
